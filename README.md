@@ -5,6 +5,7 @@ Changelog as of 26.10.2022:
 * new values added within .13 were updated
 * replaced "[Aa]ufrüsten" with "[Aa]ufwerten"
 * few formal salutations replaced with informal (Sie->du)
+* Ammunition now has consistent names and Description
 
 Changelog as of 25.10.2022:
 * added 4 new UL journal entries
