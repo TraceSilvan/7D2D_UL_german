@@ -6,6 +6,7 @@ Changelog as of 06.11.2022:
 * On-Aim translation replaced
 * `Throwable` and `explosives` translation replaced (credits Syndic)
 * replaced `mitnhemen`
+* minor consistency changes
 
 Changelog as of 26.10.2022:
 * new values added within .13 were updated
